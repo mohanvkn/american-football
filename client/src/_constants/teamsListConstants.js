@@ -1,0 +1,9 @@
+/**
+ * Created by Mohan Vamsi on 3/7/2019.
+ */
+
+export const teamsListConstants = {
+    GET_TEAMS_LIST_REQUEST: 'GET_TEAMS_LIST_REQUEST',
+    GET_TEAMS_LIST_SUCCESS: 'GET_TEAMS_LIST_SUCCESS',
+    GET_TEAMS_LIST_FAILURE: 'GET_TEAMS_LIST_FAILURE',
+};
